@@ -1,0 +1,276 @@
+.t{
+    position: absolute;
+    top: 1%;
+    left: 60%;
+    font-size: 63px;
+    color: #784212;
+    font-family: calendar note tfb;
+    }
+.te{
+    position: absolute;
+    top: 31%;
+    left: 66%;
+    font-size: 25px;
+    color: #784212;
+    font-family: DJB Letter Game Tiles;
+    }
+.a {
+    background-color: #F5CBA7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 8%;
+    top: 70%;
+    border-radius: 70px;
+    color: #17202A;
+}
+
+.a:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}
+
+.b {
+    background-color: #EDBB99;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 25%;
+    top: 70%;
+    border-radius: 40px;
+    color: #17202A;
+}
+
+.b:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}
+
+.c {
+    background-color: #F5CBA7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 42%;
+    top: 70%;
+    border-radius: 40px;
+    color: #17202A;
+}
+
+.c:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}
+
+.d {
+    background-color: #EDBB99;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 57%;
+    top: 70%;
+    border-radius: 40px;
+    color: #17202A;
+}
+
+.d:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}
+
+.e {
+    background-color: #F5CBA7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 80%;
+    top: 70%;
+    border-radius: 40px;
+    color: #17202A;
+}
+
+.e:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}
+
+
+.pla {
+    background-color: #CA6F1E;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 10%;
+    top: 80%;
+    border-radius: 70px;
+    color: black;
+}
+.pla:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}
+
+
+.plb {
+    background-color: #CA6F1E;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 27%;
+    top: 80%;
+    border-radius: 40px;
+    color: black;
+}
+.plb:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}
+
+
+.plc {
+    background-color: #CA6F1E;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 43%;
+    top: 80%;
+    border-radius: 40px;
+    color: black;
+}
+.plc:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}
+
+.pld {
+    background-color: #CA6F1E;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 62%;
+    top: 80%;
+    border-radius: 40px;
+    color: black;
+}
+.pld:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}
+
+
+.ple {
+    background-color: #CA6F1E;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 80%;
+    top: 80%;
+    border-radius: 40px;
+    color: black;
+}
+.ple:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}
+
+.su {
+    background-color: #E59866;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 65%;
+    top: 45%;
+    border-radius: 40px;
+    color: black;
+}
+.su:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}
+
+.ba {
+    background-color: #E59866;
+    color: white;
+    padding: 11px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 74%;
+    top: 45%;
+    border-radius: 40px;
+    color: black;
+}
+.ba:hover {
+background-color:#FDFEFE;
+color: #17202A;
+}

@@ -1,0 +1,49 @@
+<html>
+<link rel="stylesheet" type="text/css" href="estiso.css">
+
+</style>
+
+<body background="c.jpg">
+
+<p class="t"> Ambiente de Cafeteria</p>
+<p class="te">Volumen <br> general</p>
+
+<audio  id="s1"  src="Cafe.mp3" autoplay preload></audio>
+
+<audio  id="s2"  src="Camp.mp3" autoplay preload></audio>
+
+<audio  id="s3"  src="Car.mp3" autoplay preload></audio>
+
+<audio  id="s4"  src="Perso.mp3" autoplay preload></audio>
+
+<audio  id="s5"  src="Taza.mp3" autoplay preload></audio>
+
+<div>
+    <button onclick="document.getElementById('s1').play()" class="a"><span>Servir Cafe</button>
+    <button onclick="document.getElementById('s1').pause()" class="pla">Pausa</button>
+</div> 
+<div>
+    <button onclick="document.getElementById('s2').play()" class="b">Campana</button>
+    <button onclick="document.getElementById('s2').pause()" class="plb">Pausa</button>
+</div> 
+<div>
+    <button onclick="document.getElementById('s3').play()" class="c">Carros</button>
+    <button onclick="document.getElementById('s3').pause()" class="plc">Pausa</button>
+</div> 
+<div>
+    <button onclick="document.getElementById('s4').play()" class="d">Personas hablando</button>
+    <button onclick="document.getElementById('s4').pause()" class="pld">Pausa</button>
+</div> 
+<div>
+    <button onclick="document.getElementById('s5').play()" class="e">Taza</button>
+    <button onclick="document.getElementById('s5').pause()" class="ple">Pausa</button>
+</div> 
+
+
+<div>
+    <button onclick="document.getElementById('s5').volume += .1;document.getElementById('s4').volume += .1;document.getElementById('s3').volume += .1;document.getElementById('s2').volume += .1;document.getElementById('s1').volume += .1" class="su">Subir</button>
+    <button onclick="document.getElementById('s5').volume -= .1;document.getElementById('s4').volume -= .1;document.getElementById('s3').volume -= .1;document.getElementById('s2').volume -= .1;document.getElementById('s1').volume -= .1" class="ba">Bajar</button>
+</div> 
+
+</body>
+</html>
